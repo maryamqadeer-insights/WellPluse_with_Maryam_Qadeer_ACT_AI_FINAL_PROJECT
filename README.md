@@ -7,6 +7,10 @@
 
 Developed by **Maryam Qadeer**, WellPulse demonstrates modern frontend development using **Next.js**, **React**, **Tailwind CSS**, **shadcn/ui**, and **Lucide React Icons**.
 
+## 📸 Application Preview
+
+![Home Page](screenshots/home.png)
+
 
 #  Features
 
